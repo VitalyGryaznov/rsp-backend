@@ -1,3 +1,21 @@
+# Backend for the ROCK-PAPER-SCISSORS application
+
+## On the command line
+
+```bash
+# build
+./gradlew build
+
+# run
+./gradlew run
+```
+
+## IntelliJ 
+
+- Run `Application.kt` with selected JRE 11
+
+
+
 ## Micronaut 2.5.12 Documentation
 
 - [User Guide](https://docs.micronaut.io/2.5.12/guide/index.html)
